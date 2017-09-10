@@ -1,5 +1,7 @@
 # Meteor.IT Framework
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Meteor-DEV/Meteor.Framework.svg)](https://greenkeeper.io/)
+
 [Documentation](https://meteor-dev.github.io/Meteor.Framework/)
 
 ## Compile docs:
